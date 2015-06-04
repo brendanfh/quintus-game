@@ -1,0 +1,26 @@
+{
+  "name": "Quintus_Game",
+  "version": "1.0.0",
+  "description": "A game made with the Quintus game framework",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brendanfh/quintus-game.git"
+  },
+  "keywords": [
+    "Quintus"
+  ],
+  "author": "Brendan Hansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brendanfh/quintus-game/issues"
+  },
+  "homepage": "https://github.com/brendanfh/quintus-game"
+}
